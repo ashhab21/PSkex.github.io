@@ -46,11 +46,10 @@
             "7.55"
         ]
     },
-    "The Wolf Games": {
-        "name": "The Wolf Games",
-        "link": "https://thewolfgames.github.io/700/",
-        "owner": null,
-
+    "The Wolf Gamer": {
+        "name": "The Wolf Gamer",
+        "link": "https://wolf-5.github.io/",
+        "owner": "https://twitter.com/mohammad_fadel1",
         "firmware_support": [
             "5.05",
             "6.72",
