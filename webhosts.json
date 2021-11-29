@@ -189,15 +189,6 @@
             "7.55"
         ]
     },
-    "Ciss84 v11": {
-        "name": "Ciss84 v11",
-        "link": "https://ciss84.github.io/702v11/index.html/",
-        "owner": null,
- 
-        "firmware_support": [
-            "7.02"
-        ]
-    },
     "GamerHack": {
         "name": "GamerHack",
         "link": "https://gamerhack.github.io/ps4jb702/",
