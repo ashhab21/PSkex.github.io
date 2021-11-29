@@ -1,12 +1,9 @@
-Ignore the dots (.) feel free to check the link if it works and submit an issue if it doesnt
 {
     "AL Azif": {
         "name": "AL Azif",
         "link": "https://cthugha.exploit.menu/",
         "owner": "https://twitter.com/_alazif",
-        .
-        .
-        .
+
         "firmware_support": [
             "1.76",
             "4.05",
@@ -22,9 +19,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS Phive",
         "link": "https://leeful.github.io/psphive/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "6.72"
         ]
@@ -33,9 +28,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS Phwoar",
         "link": "https://ps-phwoar.github.io/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "6.72"
         ]
@@ -44,9 +37,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Night King",
         "link": "https://nightkinghost.com/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "5.05",
             "6.72",
@@ -59,9 +50,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "The Wolf Games",
         "link": "https://thewolfgames.github.io/700/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "5.05",
             "6.72",
@@ -74,9 +63,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Hakkuraifu",
         "link": "https://hakkuraifu.github.io/PS4xploit/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "1.76",
             "4.05",
@@ -92,9 +79,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Darkmoddervc",
         "link": "https://darkmoddervc.github.io/PS4JB/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "6.72"
         ]
@@ -103,9 +88,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Editz Modz",
         "link": "https://ps4.editzz.net/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "1.76",
             "4.05",
@@ -119,9 +102,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Leeful v10",
         "link": "https://leeful.github.io/v10/",
         "owner": null,
-        .
-        .
-        .
+   
         "firmware_support": [
             "6.72"
         ]
@@ -130,9 +111,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "judasExploit",
         "link": "https://judasexploit.github.io/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -141,9 +120,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Ciss84",
         "link": "https://ciss84.github.io/702hostv18/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -152,9 +129,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4 Metro",
         "link": "https://metro70.neocities.org/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -163,9 +138,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "exploitOS",
         "link": "https://exploitos.github.io/",
         "owner": null,
-        .
-        .
-        .
+  
         "firmware_support": [
             "7.02"
         ]
@@ -174,9 +147,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4 Macedo 702",
         "link": "https://ps4macedo.github.io/702/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -185,27 +156,21 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "The Wolf Gamer",
         "link": "#",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": []
     },
     "Jb4": {
         "name": "Jb4",
         "link": "https://jb4.online/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": []
     },
     "PS4 Macedo 75x": {
         "name": "PS4 Macedo 75x",
         "link": "https://ps4macedo.github.io/75x/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -215,9 +180,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PSGO",
         "link": "http://psgo.gitee.io/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "5.05",
             "6.72",
@@ -228,9 +191,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Santa atmo",
         "link": "https://santa-atmo.ru/ps4/",
         "owner": null,
-        .
-        .
-        .
+ 
         "firmware_support": [
             "6.72",
             "7.50",
@@ -241,9 +202,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Ciss84 v11",
         "link": "https://ciss84.github.io/702v11/index.html/",
         "owner": null,
-        .
-        .
-        .
+ 
         "firmware_support": [
             "7.02"
         ]
@@ -252,9 +211,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "GamerHack",
         "link": "https://gamerhack.github.io/ps4jb702/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -264,9 +221,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "For testing purposes",
         "link": "http://ps4kex.42web.io/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -276,9 +231,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "P30day",
         "link": "https://ps4host.p30day.ir/702/index.html/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -287,9 +240,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Karo218",
         "link": "https://karo218.ir/",
         "owner": null,
-        .
-        .
-        .
+ 
         "firmware_support": [
             "5.05",
             "6.72",
@@ -302,9 +253,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "The Wolf Gamer 7xx",
         "link": "https://thewolfgames.github.io/755/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -314,9 +263,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4 Macedo 75x2",
         "link": "https://ps4macedo.github.io/75x2/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -326,9 +273,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Prb 755",
         "link": "https://prb-borg.github.io/v3in/index.html/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.55"
         ]
@@ -337,9 +282,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Prb 702",
         "link": "https://prb-borg.github.io/7.02/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02"
         ]
@@ -348,9 +291,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "X Project",
         "link": "https://www.consolehax.com/PS4/xproject/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "5.05"
         ]
@@ -359,9 +300,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Dr Cable",
         "link": "https://drcabletech.github.io/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.02",
             "7.55"
@@ -371,9 +310,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Gamer hack 75x",
         "link": "https://gamerhack.github.io/ps4jb750-755/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.50",
             "7.55"
@@ -383,9 +320,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "Prb 755 InBlue",
         "link": "https://prb-borg.github.io/v3inblue/index.html/",
         "owner": null,
-        .
-        .
-        .
+
         "firmware_support": [
             "7.55"
         ]
@@ -394,9 +329,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4h3x",
         "link": "https://www.ps4h3x.xyz/",
         "owner": null,
-        .
-        .
-        .
+ 
         "firmware_support": [
             "5.05",
             "6.72",
@@ -409,9 +342,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4 Macedo V6",
         "link": "https://ps4macedo.github.io/755v6/",
         "owner": null,
-        .
-        .
-        .
+  
         "firmware_support": [
             "7.55"
         ]
@@ -420,9 +351,7 @@ Ignore the dots (.) feel free to check the link if it works and submit an issue 
         "name": "PS4 Macedo V7",
         "link": "https://ps4macedo.github.io/755v7/",
         "owner": null,
-        .
-        .
-        .
+  
         "firmware_support": [
             "7.55"
         ]
