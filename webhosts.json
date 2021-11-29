@@ -116,15 +116,6 @@
             "7.02"
         ]
     },
-    "Ciss84": {
-        "name": "Ciss84",
-        "link": "https://ciss84.github.io/702hostv18/",
-        "owner": null,
-
-        "firmware_support": [
-            "7.02"
-        ]
-    },
     "PS4 Metro": {
         "name": "PS4 Metro",
         "link": "https://metro70.neocities.org/",
